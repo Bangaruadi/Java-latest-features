@@ -9,3 +9,24 @@ BankTransfer
 
 StreamsExample
 StreamsExample1
+ParallelStreamPerformanceExample1
+
+DefaultAndStaticInInterface
+
+Java8LocalDate
+
+
+Java 9
+Jshell
+CollectionsFactoryMethods
+
+
+Java 10
+Epsilon GC {-xx: +unlockExperimentalVMOptions -XX:+UseEpsilonGC -verbose:gc}
+
+Java 11
+HttpClientExample
+AsyncHttpClient
+
+Java 12
+SwitchExpressionExample2

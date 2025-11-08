@@ -1,0 +1,15 @@
+Programming language immediate feedback is important and before java 8 this is missing JShell will fill this gap
+Its an interactive toll for learning java and proto typing java code
+
+package is not allowed in jshell
+
+for auto complete after . press tab
+
+jshell -v
+/import
+/list         {to list of all previous statements}
+/edit <name>	{will open Jshell Edit Pad}
+/exit
+
+
+intellij is having Jshell window
