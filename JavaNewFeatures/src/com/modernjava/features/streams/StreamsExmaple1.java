@@ -9,6 +9,19 @@ import java.util.stream.Stream;
 public class StreamsExmaple1 {
 
     public static void main(String[] args) {
+        //lambda
+        //callable
+        //consumer {accept , andThen} , IntConsumer , LongConsumer , DoubleConsumer , BiConsumer
+        //Supplier {get}
+        //Functions {apply , andThen , compose} , BiFunction
+        //Predicate {test , and , or , negate , isEqualTo}
+        //MethodReference {className::static Method , objectName :: instance method , class::new}
+        //LocalDate , LocalDateTime [check in class] {LocalDate.of() , getDay()  .., plusDay() , same for LocalDateTime , LocalDateTime.toLocalDate(), DUration.between , LocalDateTime.ofInstant(Instant.now(), ZoneId.systemDefault())}
+        //switch expression { -> , case null , pattern matching , &&}
+        //parallel stream
+        //reduce , joining , IntStream {below examples} , Stream.of() , String.join , Arrays.stream
+
+
         //Stream.of() to create a stream from similar type of data
         //Stream.iterate generate infinite sequential ordered stream by iteration
 
