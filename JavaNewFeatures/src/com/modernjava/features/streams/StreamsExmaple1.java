@@ -20,6 +20,7 @@ public class StreamsExmaple1 {
         //switch expression { -> , case null , pattern matching , &&}
         //parallel stream
         //reduce , joining , IntStream {below examples} , Stream.of() , String.join , Arrays.stream
+        //loop convert to steams , lambda to method reference , some forEach can be convert to collect , extract intermediate operations
 
 
         //Stream.of() to create a stream from similar type of data
